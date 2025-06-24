@@ -33,3 +33,5 @@ nginx 에 <code> dist/browser/index.html </code> 등록 후 사용 가능
 ## 브라우저
 
 midori 브라우저 사용
+<pre>sudo nano ~/.config/lxsession/LXDE-pi/autostart</pre>
+에서 midori 브라우저 키오스크 전체화면 설정
